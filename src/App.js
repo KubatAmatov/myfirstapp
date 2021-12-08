@@ -1,13 +1,16 @@
+import React from "react";
 import "./App.css";
-import MyComponent from "./MyComponent";
-import SVG from "./SVG";
-import API from "./API";
+import Header from "./components/Header";
+import AboutUs from "./components/AboutUs";
+import Gifts from "./components/Gifts";
 
 function App() {
   return (
-    <div className="App">
-      <MyComponent /> <SVG /> <API />
-    </div>
+    <>
+      <Header />
+      <AboutUs />
+      <Gifts />
+    </>
   );
 }
 
