@@ -14,10 +14,10 @@ function Gifts() {
       </p>
 
       <div className="GiftContainer">
-        <GiftCard imgURL={img1} title="osi;dfla" />
-        <GiftCard imgURL={img2} title="osi;dfla" />
-        <GiftCard imgURL={img3} title="osi;dfla" />
-        <GiftCard imgURL={img4} title="osi;dfla" />
+        <GiftCard imgURL={img1} title="Birthday" />
+        <GiftCard imgURL={img2} title="Anniversary" />
+        <GiftCard imgURL={img3} title="Valentine's Day" />
+        <GiftCard imgURL={img4} title="Christmas" />
       </div>
     </div>
   );

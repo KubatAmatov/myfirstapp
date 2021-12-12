@@ -10,7 +10,7 @@ function Header() {
         <a href="#">Blogs</a>
       </nav>
 
-      <button className="ywllow-transparent-btn header-btn">GIFT FINDER</button>
+      <button className="ywllow-transparent-btn-header-btn">GIFT FINDER</button>
     </header>
   );
 }
